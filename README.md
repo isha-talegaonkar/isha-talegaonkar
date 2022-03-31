@@ -1,7 +1,7 @@
-<h2 align="center">Nikhil Kala
+<h2 align="center">Isha Talegaonkar
  <br>
   <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nikhilkala" alt="nikhilkala" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=isha-talegaonkar" alt="isha-talegaonkar" /> </p>
 
 </h2>
 <h5 align="center">
